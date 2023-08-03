@@ -1,0 +1,14 @@
+run1:
+	python3 app.py strat1
+
+run2:
+	python3 app.py strat2
+
+run3:
+	python3 app.py strat3
+
+run4:
+	python3 app.py strat4
+
+run5:
+	python3 app.py stratop
